@@ -1,3 +1,10 @@
+/*C++ program to print the following pattern
+*****
+*****
+*****
+*****
+*****     */
+
 #include<iostream>
 
 using namespace std;
