@@ -1,3 +1,5 @@
+//C++ program to implement linear search using function.
+
 #include <iostream>
 #include<conio.h>
 #include<stdlib.h>
